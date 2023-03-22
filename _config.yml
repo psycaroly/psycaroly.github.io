@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Caroline Zygar-Hoffmann"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Caroline Zygar-Hoffmann"
-description              : &description "personal description"
+description              : &description "my website"
 url                      : https://psycaroly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "psycaroly/psycaroly.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "psycaroly"
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Dr. Caroline Zygar-Hoffmann"
+  avatar           : "DSC05633-02.jpeg"
+  bio              : "Psychologist, Data Scientist, Academic Mom"
+  location         : "Munich, Germany"
+  employer         : # "LMU Munich"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.de/citations?user=qH8FVR0AAAAJ&hl=de"
+  email            : caroline.zygar@psy.lmu.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,25 +96,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "psycaroly"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/dr-caroline-zygar-hoffmann-4031b37b/"
+  orcid            : "http://orcid.org/0000-0002-8677-2276"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "psycaroly"
   vine             :
   weibo            :
-  xing             :
+  xing             : "https://www.xing.com/profile/Caroline_ZygarHoffmann/cv"
   youtube          :
   wikipedia        :
+  LMU Munich       : "https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/zygar/index.html"
 
 
 # Reading Files
