@@ -11,15 +11,13 @@ redirect_from:
 
 Nice to meet you. 
 
-I am currently a postdoc at the [Chair of Psychological Methods and Diagnostics at LMU Munich](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/zygar/index.html). 
+I am currently a postdoc at the [Chair of Psychological Methods and Diagnostics at LMU Munich](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/zygar/index.html).
 
 My research focuses on motivational processes in couple relationships and methodological approaches to study everyday life (Experience Sampling, Ecological Momentary Interventions; [find out more in my publications](https://psycaroly.github.io/publications/)).
 
-I am a passionate coder in the statistical programming language R <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/r-project.svg" width="50" height="50">, and a boardgame geek.
+I'm a passionate coder in the statistical programming language R 👩‍💻, and a boardgame geek 🎲.
 
-Open Science is the future. In my work I am committed to [research transparency](http://www.researchtransparency.org).
-
-<img src="http://www.researchtransparency.org/media/rt_logo_small.png" width="50" height="50">
+Open Science is the future. In my work I am committed to [research transparency](http://www.researchtransparency.org) <img src="http://www.researchtransparency.org/media/rt_logo_very_small.png" width="30" height="30">.
 
 I orient my actions according to the values of openness, mutual respect and gratitude.
 
