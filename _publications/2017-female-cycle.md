@@ -2,7 +2,7 @@
 title: "Does the female cycle matter? Looking at aggressive intentions after social exclusion."
 collection: publications
 permalink: /publication/2017-female-cycle
-date: 2017
+date: 2017-03-17
 venue: 'Social Influence'
 paperurl: 'https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/zygar/zygar-2017.pdf'
 link: 'https://psycnet.apa.org/record/2017-18386-001'
