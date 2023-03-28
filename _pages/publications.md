@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+<img src="https://github.com/psycaroly/psycaroly.github.io/blob/master/images/wordcloud.png?raw=true">
+
 {% for post in site.publications reversed %}
   {% include archive-single-publications.html %}
 {% endfor %}

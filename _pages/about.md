@@ -17,7 +17,7 @@ My research focuses on motivational processes in couple relationships and method
 
 I'm a passionate coder in the statistical programming language R 👩‍💻, and a boardgame geek 🎲.
 
-Open Science is the future. In my work I am committed to [research transparency](http://www.researchtransparency.org) <img src="http://www.researchtransparency.org/media/rt_logo_very_small.png" width="30" height="30">.
+Open Science is the future. In my work I am committed to [research transparency](http://www.researchtransparency.org) <img src="https://github.com/psycaroly/psycaroly.github.io/blob/master/images/rt_logo_small.png?raw=true" width="30" height="30">.
 
 I orient my actions according to the values of openness, mutual respect and gratitude.
 
