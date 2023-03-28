@@ -260,4 +260,5 @@ colorVec <- ifelse(df[, 2] > 24, 'tomato',
                    ifelse(df[, 2] < 25 & df[, 2] > 15, 'darkorange', 
                           'darkblue'))
 
-wordcloud2(data=df, size=0.5, color=colorVec,minRotation = 1.5708, maxRotation = 1.5708)
+wordcloud2(data=df, size=0.5, color=colorVec,minRotation = 1.5708, maxRotation = 1.5708, shape = "circle", ellipticity = 0.1)
+
