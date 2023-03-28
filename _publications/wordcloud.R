@@ -168,6 +168,8 @@ docs_words <- unlist(strsplit(as.character(docs), " "))
 # # Oddly, stemCompletion completes an empty string to
 # a word in dictionary. Remove empty string to avoid issue.
 docs_words <- docs_words[docs_words != ""]
+## die überschriebenen wörter unten sind hier noch drin, deswegen tauchen sie am ende wieder auf zB
+docs_words <- docs_words[docs_words != "motivational"]
 
 stemCompletion2 <- function(x, dictionary) {
   # split each word and store it    
@@ -177,6 +179,8 @@ stemCompletion2 <- function(x, dictionary) {
   x <- x[x != ""]
   x <- singularize(x)
   x[x == "motive"] <- "motives"
+  x[x == "motivated"] <- "motivation"
+  x[x == "motivational"] <- "motivation"
   x[x == "experienced"] <- "experience"
   x[x == "assessed"] <- "assessment"
   x[x == "assessing"] <- "assessment"
@@ -221,6 +225,10 @@ stemCompletion2 <- function(x, dictionary) {
   x[x == "apply"] <- "application"
   x[x == "associated"] <- "association"
   x[x == "relationships"] <- "relationship"
+  x <- x[x != "list()"]
+  x <- x[x != "\"en\")"]
+  x <- x[x != "="]
+  x <- x[x != "list(language"]
   x <- stemCompletion(x, dictionary=docs_words, type = "prevalent")
   x <- paste(x, sep="", collapse=" ")
   PlainTextDocument(stripWhitespace(x))
@@ -260,5 +268,5 @@ colorVec <- ifelse(df[, 2] > 24, 'tomato',
                    ifelse(df[, 2] < 25 & df[, 2] > 15, 'darkorange', 
                           'darkblue'))
 
-wordcloud2(data=df, size=0.5, color=colorVec,minRotation = 1.5708, maxRotation = 1.5708, shape = "circle", ellipticity = 0.1)
+wordcloud2(data=df, size=0.5, color=colorVec,minRotation = 1.5708, maxRotation = 1.5708, shape = "circle", ellipticity = 0.1, minSize = 6)
 
