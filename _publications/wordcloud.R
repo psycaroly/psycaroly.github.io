@@ -268,5 +268,9 @@ colorVec <- ifelse(df[, 2] > 24, 'tomato',
                    ifelse(df[, 2] < 25 & df[, 2] > 15, 'darkorange', 
                           'darkblue'))
 
-wordcloud2(data=df, size=0.5, color=colorVec,minRotation = 1.5708, maxRotation = 1.5708, shape = "circle", ellipticity = 0.1, minSize = 6)
+hw <- wordcloud2(data=df, size=0.5, color=colorVec,minRotation = 1.5708, maxRotation = 1.5708, shape = "circle", ellipticity = 0.1, minSize = 7)
+hw
 
+library(htmlwidgets) 
+saveWidget(hw,"1.html",selfcontained = F)
+webshot::webshot("1.html","1.png",vwidth = 1992, vheight = 1744, delay =10)
