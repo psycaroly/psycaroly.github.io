@@ -178,6 +178,7 @@ stemCompletion2 <- function(x, dictionary) {
   # a word in dictionary. Remove empty string to avoid issue.
   x <- x[x != ""]
   x <- singularize(x)
+  x[x == "retrospective"] <- "retrospection"
   x[x == "motive"] <- "motives"
   x[x == "motivated"] <- "motivation"
   x[x == "motivational"] <- "motivation"
@@ -264,13 +265,13 @@ df <- df %>% filter(word != "yday")
 df <- df %>% filter(word != "tenets")
 df <- df %>% filter(word != "termed")
 
-colorVec <- ifelse(df[, 2] > 24, 'tomato', 
-                   ifelse(df[, 2] < 25 & df[, 2] > 15, 'darkorange', 
-                          'darkblue'))
+colorVec <- ifelse(df[, 2] > 24, '#0087cd', 
+                   ifelse(df[, 2] < 25 & df[, 2] > 15, '#F99B1C', 
+                          '#F04C3E'))
 
 hw <- wordcloud2(data=df, size=0.5, color=colorVec,minRotation = 1.5708, maxRotation = 1.5708, shape = "circle", ellipticity = 0.1, minSize = 7)
 hw
 
-library(htmlwidgets) 
-saveWidget(hw,"1.html",selfcontained = F)
-webshot::webshot("1.html","1.png",vwidth = 1992, vheight = 1744, delay =10)
+# library(htmlwidgets) 
+# saveWidget(hw,"1.html",selfcontained = F)
+# webshot::webshot("1.html","1.png",vwidth = 1992, vheight = 1744, delay =10)

@@ -28,4 +28,9 @@ Current projects
 
 I am currently on parental leave. 
 
-In summer 2023 I am starting a [project funded by the German Research Foundation](https://gepris.dfg.de/gepris/projekt/497443642?language=en) which aims to causally investigate fundamental assumptions of motivational theories applied to couple relationships. I will be recruiting a PhD student for this project soon. Follow me on [Twitter](https://twitter.com/psycaroly) for updates.
+In summer 2023 I am starting a [project funded by the German Research Foundation](https://gepris.dfg.de/gepris/projekt/497443642?language=en) which aims to causally investigate fundamental assumptions of motivational theories applied to couple relationships, together with my dear colleague [Felix Schönbrodt](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/schoenbrodt/index.html). We will be recruiting a PhD student for this project soon. Follow me on [Twitter](https://twitter.com/psycaroly) for updates.
+
+Credit
+======
+
+This website was made with the help of [the tutorial by Rob Williams](https://jayrobwilliams.com/posts/2020/06/academic-website/).
