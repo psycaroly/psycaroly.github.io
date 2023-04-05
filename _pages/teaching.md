@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
+
 I enjoy teaching and sharing my expertise with others as part of my job as a research fellow. I am experienced in conducting workshops on various topics that I have specialized in (see below for an overview of past workshops), and I find it rewarding to help others learn and grow in their knowledge.
 If you would like to discuss the possibility of me leading a session for your group, feel free to contact me.
 
