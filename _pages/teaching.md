@@ -46,7 +46,7 @@ table, th, td {
 |  | 2019 | | |
 |  | 2018/2019 | | |
 |  | 2018 | | |
-| Psychology, B.Sc. | 2020/2021 | Course | Statistics I | 1x digital, 1x in-person |
+| Psychology, B.Sc. | 2020/2021 | Course | Statistics I | 2x digital, 1x in-person |
 |  | 2019/2020 | | |
 | Psychology, B.Sc. | 2016 | Course | Statistics II | 3x in-person |
 | Psychology, B.Sc. | 2014/2015 | Course | Social Competencies | 1x in-person |
