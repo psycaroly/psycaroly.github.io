@@ -11,7 +11,7 @@ redirect_from:
 
 Nice to meet you. 
 
-I am currently a postdoc at the [Chair of Psychological Methods and Diagnostics at LMU Munich](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/zygar/index.html).
+I am currently a postdoc at the [Chair of Psychological Methods and Diagnostics at LMU Munich](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/zygar/index.html) and interim professor for Psychological Methods at the [Charlotte Fresenius University of Psychology in Munich](https://www.charlotte-fresenius-uni.de/forschung-lehre/professuren/caroline-zygar-hoffmann/).
 
 My research focuses on motivational processes in couple relationships and methodological approaches to study everyday life (Experience Sampling, Ecological Momentary Interventions; [find out more in my publications](https://psycaroly.github.io/publications/)).
 
@@ -26,8 +26,6 @@ My ❤️ belongs to my wonderful husband and my brilliant little son.
 Current projects
 ======
 
-I am currently on parental leave. 
-
-In summer 2023 I am starting a [project funded by the German Research Foundation](https://gepris.dfg.de/gepris/projekt/497443642?language=en) which aims to experimentally investigate fundamental causal assumptions of motivational theories applied to couple relationships. This is a joint project together with my dear colleague [Felix Schönbrodt](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/schoenbrodt/index.html). We will be recruiting a PhD student for this project soon. Follow me on [Twitter](https://twitter.com/psycaroly) for updates.
+I am currently supervising a [project funded by the German Research Foundation](https://gepris.dfg.de/gepris/projekt/497443642?language=en) which aims to experimentally investigate fundamental causal assumptions of motivational theories applied to couple relationships. This is a joint project together with my dear colleagues [Felix Schönbrodt](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/schoenbrodt/index.html) and Nensy Le. Follow me on [Twitter](https://twitter.com/psycaroly) for updates.
 
 
