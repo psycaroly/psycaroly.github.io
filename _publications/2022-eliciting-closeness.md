@@ -1,7 +1,7 @@
 ---
-title: "Peer-reviewed Journals"
+title: ""
 collection: publications
-permalink: /publication/2022-motivational-interdep
+permalink: /publication/2022-eliciting-closeness
 date: 2022-10-17
 venue: 'Collabra: Psychology'
 paperurl: 'https://online.ucpress.edu/collabra/article-pdf/8/1/38599/759382/collabra_2022_8_1_38599.pdf'
