@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Caroline Zygar-Hoffmann"
-description              : &description "personal website of Dr. Caroline Zygar-Hoffmann"
+description              : &description "personal website of Prof. Dr. Caroline Zygar-Hoffmann"
 url                      : https://psycaroly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "psycaroly/psycaroly.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Caroline Zygar-Hoffmann"
+  name             : "Prof. Dr. Caroline Zygar-Hoffmann"
   avatar           : "DSC05633-02.jpeg"
   bio              : "Psychologist, Data Scientist, Academic Mom"
   location         : "Munich, Germany"
   employer         : # "LMU Munich"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=qH8FVR0AAAAJ&hl=de"
-  email            : caroline.zygar@psy.lmu.de
+  email            : caroline.zygar-hoffmann@charlotte-fresenius-uni.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
