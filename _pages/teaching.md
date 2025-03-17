@@ -30,12 +30,15 @@ table, th, td {
 
 | Students | Year | Type | Topic | Total Number & Format |
 | -------- | -------- | -------- | -------- | -------- |
+| Psychology, B.Sc. | 2024 | Lecture | Scientific Working  | 1x in-person |
+| Psychology, B.Sc. | 2024 | Lecture | Introduction to Research Methods in Psychology and Psychotherapy  | 1x in-person |
 | Psychology, B.Sc. | 2023/2024 | Lecture | Scientific Working  | 1x in-person |
-| Psychology, B.Sc. | 2023/2024 | Lecture | Introduction to Scientific Methods in Psychology and Psychotherapy  | 1x in-person |
+| Psychology, B.Sc. | 2023/2024 | Lecture | Introduction to Research Methods in Psychology and Psychotherapy  | 1x in-person |
 | Psychology, M.Sc. | 2021 | Lecture | Multivariate Statistics  | 1x digital |
 | Psychology, B.Sc. | 2020 | Lecture | Psychological Diagnostics | 1x digital, 1x in-person |
 |  | 2017 | | |
-| Psychology, B.Sc. | 2021/2022 | Course | Questionnaire Development | 3x digital |
+| Psychology, B.Sc. | 2024 | Course | Questionnaire Development | 3x digital, 1x in-person |
+|  | 2021/2022 | | |
 | Psychology, M.Sc. | 2021 | Course | Multivariate Statistics | 1x digital |
 | Psychology, B.Sc. | 2023 | Course | Methods in Diagnostics | 2x digital, 8x in-person |
 |  | 2020/2021 | | |
@@ -57,8 +60,8 @@ table, th, td {
 
 | Attendees | Year | Type | Topic | Total Number & Format |
 | -------- | -------- | -------- | -------- | -------- |
-| Researchers | upcoming in 2024 | 1 day | Tips and tools for a reproducible workflow  | 2x in-person, 1x digital |
-|  | 2023 | 1 day | Tips and tools for a reproducible workflow  | |
+| Researchers | 2024 | 1 day | Tips and tools for a reproducible workflow  | 2x in-person, 1x digital |
+|  | 2023 | | | |
 |  | 2021 | 2 half days | |
 | Researchers | 2021 | 3 hours | Open Science: Why, What, and How? | 1x digital |
 | Researchers | 2021 | 1.5 hours | Advanced power analysis | 1x in-person, 1x digital |

@@ -11,7 +11,7 @@ redirect_from:
 
 Nice to meet you. 
 
-I am currently a postdoc at the [Chair of Psychological Methods and Diagnostics at LMU Munich](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/zygar/index.html) and interim professor for Psychological Methods at the [Charlotte Fresenius University of Psychology in Munich](https://www.charlotte-fresenius-uni.de/forschung-lehre/professuren/caroline-zygar-hoffmann/).
+I am a professor for Psychological Methods at the [Charlotte Fresenius University of Psychology in Munich](https://www.charlotte-fresenius-uni.de/forschung-lehre/professuren/caroline-zygar-hoffmann/), and associated researcher at the [Chair of Psychological Methods and Diagnostics at LMU Munich](https://www.lmu.de/psy/de/personen/kontaktseite/kontaktseite_12480.html).
 
 My research focuses on motivational processes in couple relationships and methodological approaches to study everyday life (Experience Sampling, Ecological Momentary Interventions; [find out more in my publications](https://psycaroly.github.io/publications/)).
 
@@ -26,6 +26,6 @@ My ❤️ belongs to my wonderful husband and my brilliant little son.
 Current projects
 ======
 
-I am currently supervising a [project funded by the German Research Foundation](https://gepris.dfg.de/gepris/projekt/497443642?language=en) which aims to experimentally investigate fundamental causal assumptions of motivational theories applied to couple relationships. This is a joint project together with my dear colleagues [Felix Schönbrodt](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/schoenbrodt/index.html) and Nensy Le. Follow me on [Twitter](https://twitter.com/psycaroly) for updates.
+I am currently supervising a [project funded by the German Research Foundation](https://gepris.dfg.de/gepris/projekt/497443642?language=en) which aims to experimentally investigate fundamental causal assumptions of motivational theories applied to couple relationships. This is a joint project together with my dear colleagues [Felix Schönbrodt](https://www.lmu.de/psy/de/personen/kontaktseite/felix-schoenbrodt-21fe5d01.html) and [Nensy Le](https://www.lmu.de/psy/de/personen/kontaktseite/kontaktseite_12224.html). Follow me on [Twitter](https://twitter.com/psycaroly) for updates.
 
 
