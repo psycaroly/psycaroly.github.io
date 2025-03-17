@@ -37,7 +37,7 @@ table, th, td {
 | Psychology, M.Sc. | 2021 | Lecture | Multivariate Statistics  | 1x digital |
 | Psychology, B.Sc. | 2020 | Lecture | Psychological Diagnostics | 1x digital, 1x in-person |
 |  | 2017 | | |
-| Psychology, B.Sc. | 2024 | Course | Questionnaire Development | 3x digital, 1x in-person |
+| Psychology, B.Sc. | 2024/2025 | Course | Questionnaire Development | 3x digital, 1x in-person |
 |  | 2021/2022 | | |
 | Psychology, M.Sc. | 2021 | Course | Multivariate Statistics | 1x digital |
 | Psychology, B.Sc. | 2023 | Course | Methods in Diagnostics | 2x digital, 8x in-person |
@@ -51,7 +51,8 @@ table, th, td {
 |  | 2019 | | |
 |  | 2018/2019 | | |
 |  | 2018 | | |
-| Psychology, B.Sc. | 2020/2021 | Course | Statistics I | 2x digital, 1x in-person |
+| Psychology, B.Sc. | 2024 | Course | Statistics I | 2x digital, 2x in-person |
+|  | 2020/2021 | | |
 |  | 2019/2020 | | |
 | Psychology, B.Sc. | 2016 | Course | Statistics II | 3x in-person |
 | Psychology, B.Sc. | 2014/2015 | Course | Social Competencies | 1x in-person |
